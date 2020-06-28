@@ -6,13 +6,14 @@ body {
 	background-color: lightpink;
 	font-family: Arial,Helvetica,San-serif;
 	text-align: center;
-        background-image: url("img//backgrndimg.jpg");
+        background-image: url("img/backgrndimg.jpg");
 	background-attachment: scroll;
 }
 h1{
 	margin-bottom: 0.5rem;
 	margin-top: 3.0rem;
 	text-shadow: 2px 2px green;
+	background-color: green;
 }
 h2{
 	margin-bottom: 0.5rem;
