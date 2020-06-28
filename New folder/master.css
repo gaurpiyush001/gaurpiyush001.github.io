@@ -6,6 +6,8 @@ body {
 	background-color: lightpink;
 	font-family: Arial,Helvetica,San-serif;
 	text-align: center;
+        background-image: url("backgrndimg.jpg");
+	background-attachment: scroll;
 }
 h1{
 	margin-bottom: 0.5rem;
