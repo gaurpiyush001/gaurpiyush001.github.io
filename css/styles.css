@@ -92,7 +92,7 @@ p{
   border-color: black;
   border-color: #fffbe0 green  #fffbe0 #f6830f;
   position: absolute;
-  left: 90px;
+  left: 15px;
   top: 500px;
 }
 #intro{
@@ -107,6 +107,6 @@ p{
 }
 #final{
   position: absolute;
-  left: 90px;
+  left: 50px;
   height: 140px;
 }
