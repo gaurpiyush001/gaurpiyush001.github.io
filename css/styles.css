@@ -1,0 +1,111 @@
+body{
+  margin: 0;
+  text-align: center;
+  background-image: linear-gradient(to bottom left,#d7a224,  #285c7b, #12e86fb5);
+	background-image: -moz-linear-gradient(to bottom left,#d7a224,  #285c7b, #12e86fb5);
+	background-image: radial-gradient(#d7a224, #d7a224, #285c7b,);
+  font-size: 140%;
+}
+h1{
+  font-family: serif;
+  margin-top: 0;
+  /* color:#214252; */
+  text-shadow: 2px 3px #11999e;
+  /* text-shadow: 2px 3px red; */
+  padding-top: 140px;
+  text-decoration: underline;
+  /* width: 100px; */
+  /* margin: 0 auto 0 auto; */
+}
+hr {
+  /* background-color: white; */
+  /* height: 0px; */
+  margin: 40px auto 40px auto;
+  width: 5%;
+  border-style: dotted none none;
+  border-width: 5px;
+  border-color: #a6aa9c;
+  /* margin: 5px 0 5px 0; */
+  /* margin: 18px; */
+  /* border-style: dashed; */
+  /* border-style:double; */
+  /* border-style:outset; */
+}
+p{
+  margin-top: 5px;
+  margin-bottom: 0;
+}
+/*************class selectors************/
+/* .bottom-container{
+
+} */
+.clod1{
+  position: absolute;
+  top: 50px;
+  right: 270px;
+}
+.clod2{
+  /* display: inline-block; */
+  position: absolute;
+  top : 200px;
+  left: 270px;
+}
+/* .gifs{
+  display:inline-block;
+  width:20%;
+  height:0;
+  padding-bottom:57%;
+  position: absolute;
+  right: 10px;
+} */
+.last{
+  background-color: blue;
+  height: 200px;
+  width: 200px;
+}
+.middle-container{
+  /* background-color: red; */
+  /* background-image: -webkit-radial-gradient( #d7a224,  #285c7b, #12e86fb5, black, pink, purple, violet, green);
+	background-image: -moz-linear-gradient(to bottom left,#d7a224,  #285c7b, #12e86fb5);
+	background-image: radial-gradient(#d7a224, #d7a224, #285c7b,); */
+  /* height: 200px; */
+  /* width: 200px; */
+}
+.pro{
+  text-decoration: underline;
+  font-weight: bold;
+  color: red;
+}
+.top{
+  /* background-color: lightblue; */
+  align-items:center;
+  /* background-image: -webkit-radial-gradient( #d7a224,  #285c7b, #12e86fb5, black, pink, purple, violet, green); */
+  /* height: 200px; */
+  /* width: 200px; */
+}
+/*******Id***************************/
+#mypicc{
+  border-radius: 100%;
+  height: 150px;
+  border-width: 5px;
+  border-style: groove;
+  border-color: black;
+  border-color: #fffbe0 green  #fffbe0 #f6830f;
+  position: absolute;
+  left: 130px;
+}
+#intro{
+  font-variant: small-caps;
+  font-size: 130%;
+  text-decoration: underline;
+  color:#fff8cd;
+}
+#para{
+  display: inline-block;
+  font-size: 20px;
+}
+#final{
+  position: absolute;
+  right: 140px;
+  height: 140px;
+}
