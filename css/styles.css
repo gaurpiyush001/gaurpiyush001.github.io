@@ -48,7 +48,7 @@ p{
   /* display: inline-block; */
   position: absolute;
   top : 200px;
-  left: 270px;
+  left: 100px;
 }
 /* .gifs{
   display:inline-block;
@@ -93,7 +93,7 @@ p{
   border-color: #fffbe0 green  #fffbe0 #f6830f;
   position: absolute;
   left: 90px;
-  top: 590px;
+  top: 500px;
 }
 #intro{
   font-variant: small-caps;
